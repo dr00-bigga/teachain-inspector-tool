@@ -1,0 +1,31 @@
+{
+  "name": "teachain-inspector-tool",
+  "version": "1.0.0",
+  "description": "A tool for inspecting Teachain functionalities and data, providing valuable insights for analysis and optimization.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dr00-bigga/teachain-inspector-tool"
+  },
+  "author": "dr00-bigga",
+  "license": "MIT",
+  "dependencies": {
+    "teachain-inspector-tool": "1.0.0",
+    "teachain-probability": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "lodash": "1.0.0",
+    "underscore": "1.0.0",
+    "nodemon": "1.0.0",
+    "commander": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "truffle": "1.0.0",
+    "dotenv": "1.0.0",
+    "socket.io": "1.0.0",
+    "axios": "1.0.0",
+    "debug": "1.0.0",
+    "web3": "1.0.0"
+  }
+}
